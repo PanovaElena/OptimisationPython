@@ -1,0 +1,10 @@
+# General
+*.log
+.coverage
+
+# macOS
+.DS_Store
+
+# Python
+env
+*.pyc
